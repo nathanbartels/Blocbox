@@ -366,6 +366,7 @@ color: #3498DB;
  }
  .left-nav .items {
   padding: 0 6%;
+  color: #FFFFFF;
  }
 .Left-nav .items p {
   font-weight: 600;
@@ -382,6 +383,9 @@ color: #3498DB;
   list-style-type: none;
   margin-bottom: 15px;
 }
+.left-nav .items ul li.active a {
+  color:#000;
+ }
 .left-nav .items ul li a {
   color: #FFFFFF;
   text-decoration: none;
