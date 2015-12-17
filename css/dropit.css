@@ -73,7 +73,7 @@
     z-index: 1;
     top: 100%;
     right: 10px;
-    text-transform: rotate(180deg);
+    transform: rotate(180deg);
 }
 
  .dropit .dropit-open .dropit-submenu li {

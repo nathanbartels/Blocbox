@@ -491,7 +491,7 @@ color: #3498DB;
    text-align: right;
    float: right;
    margin-right:10px;
-   margin-top:8px;
+   margin-top: 8px;
  }
 /*CONTENT */
  .content {
@@ -610,7 +610,15 @@ color: #3498DB;
    line-height: 18px;
    margin:5px 0 0;
  }
+.settings-btn {
+  margin-top:0px!important;
+}
 
+.dropit-inverse .dropit-submenu li a {
+  text-align: left;
+  font-size:12px;
+  float:none;
+}
 
 
 
